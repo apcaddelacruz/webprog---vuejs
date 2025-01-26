@@ -1,8 +1,8 @@
 <template>
-  <h1>Food</h1>
-  <food-item/>
-  <food-item/>
-  <food-item/>
+  <h1>Food</h1> <br>
+  <food-item/> <br>
+  <food-item/> <br>
+  <food-item/> <br>
 </template>
 
 <script></script>
