@@ -15,9 +15,9 @@
   </script>
 
 <template>
-      <ul>
-      <li v-for="instrument in instruments" :key="instrument.id">{{ instrument.name }}</li>
-    </ul>
+  <ul>
+    <li v-for="instrument in instruments" :key="instrument.id">{{ instrument.name }}</li>
+  </ul>
 
   <h1>Food</h1> <br>
   <personal-profile/> <br>
